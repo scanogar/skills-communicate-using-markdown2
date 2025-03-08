@@ -1,1 +1,5 @@
+# <<<<<<< start-markdown
 # header
+=======
+## header
+# >>>>>>> main
